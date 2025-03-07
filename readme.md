@@ -13,7 +13,7 @@ A personal portfolio website built with Django and deployed on **Vercel**.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/ShivamMathtech/portfolio.git
 cd portfolio
 ```
 
